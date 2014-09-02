@@ -436,7 +436,7 @@
 
     {
         "class": "sidebar_container",
-        "layer0.tint": [34, 37, 42],
+        "layer0.tint": [31, 31, 31],
         "layer0.opacity": 1.0,
         "layer0.draw_center": false,
         "layer0.inner_margin": 0,
@@ -449,7 +449,7 @@
         "indent": 20,
         "indent_offset": 18,
         "indent_top_level": false,
-        "layer0.tint": [34, 37, 42],
+        "layer0.tint": [31, 31, 31],
         "layer0.opacity": 1.0
     },
     {
