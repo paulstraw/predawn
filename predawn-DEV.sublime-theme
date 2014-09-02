@@ -347,7 +347,7 @@
 
     {
         "class": "minimap_control",
-        "viewport_color": [241, 130, 96, 10]
+        "viewport_color": [96, 170, 241, 10]
     },
 
         //
@@ -607,7 +607,7 @@
 
     {
         "class": "button_control",
-        "content_margin": [20, 15],
+        "content_margin": [10, 5],
         "min_size": [70, 0],
 
         // Default button state
@@ -632,7 +632,7 @@
         "class": "text_line_control",
         "layer0.texture": "Predawn/assets/text-field.png",
         "layer0.opacity": 1,
-        "content_margin": [10, 14]
+        "content_margin": [2]
     },
     {
         "class": "text_line_control",
@@ -689,20 +689,20 @@
     {
         "class": "quick_panel_label",
         "fg": [120, 120, 120],
-        "match_fg": [241, 130, 96],
+        "match_fg": [96, 170, 241],
         "selected_fg": [255, 255, 255, 255],
         "selected_match_fg": [255, 255, 255]
     },
     {
         "class": "quick_panel_path_label",
         "fg": [75, 75, 75],
-        "match_fg": [241, 130, 96],
+        "match_fg": [96, 170, 241],
         "selected_fg": [255, 255, 255, 255],
         "selected_match_fg": [255, 255, 255]
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [241, 130, 96],
+        "fg": [96, 170, 241],
         "selected_fg": [255, 255, 255]
     },
 
@@ -765,7 +765,7 @@
         "class": "icon_button_control",
         "layer0.texture": "Predawn/assets/btn-group-middle.png",
         "layer0.opacity": 1,
-        "content_margin": [20, 15]
+        "content_margin": [10, 5]
     },
     {
         "class": "icon_button_control",
@@ -778,7 +778,7 @@
         "attributes": ["left"],
         "layer0.texture": "Predawn/assets/btn-group-left.png",
         "layer0.opacity": 1,
-        "content_margin": [20, 15, 15, 15]
+        "content_margin": [10, 5]
     },
     {
         "class": "icon_button_control",
@@ -792,7 +792,7 @@
         "attributes": ["right"],
         "layer0.texture": "Predawn/assets/btn-group-right.png",
         "layer0.opacity": 1,
-        "content_margin": [15, 15, 20, 15]
+        "content_margin": [10, 5]
     },
     {
         "class": "icon_button_control",
@@ -806,7 +806,7 @@
         "attributes": ["left", "right"],
         "layer0.texture": "Predawn/assets/btn-single.png",
         "layer0.opacity": 1,
-        "content_margin": [20, 15]
+        "content_margin": [10, 5]
     },
     {
         "class": "icon_button_control",
@@ -825,7 +825,7 @@
         "class": "icon_regex",
         "layer0.texture": "Predawn/assets/icon-regex-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_regex",
@@ -842,7 +842,7 @@
         "class": "icon_case",
         "layer0.texture": "Predawn/assets/icon-case-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_case",
@@ -859,7 +859,7 @@
         "class": "icon_whole_word",
         "layer0.texture": "Predawn/assets/icon-word-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_whole_word",
@@ -882,7 +882,7 @@
         "class": "icon_context",
         "layer0.texture": "Predawn/assets/icon-context-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_context",
@@ -899,7 +899,7 @@
         "class": "icon_use_buffer",
         "layer0.texture": "Predawn/assets/icon-buffer-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_use_buffer",
@@ -922,7 +922,7 @@
         "class": "icon_reverse",
         "layer0.texture": "Predawn/assets/icon-reverse-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_reverse",
@@ -939,7 +939,7 @@
         "class": "icon_wrap",
         "layer0.texture": "Predawn/assets/icon-wrap-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_wrap",
@@ -956,7 +956,7 @@
         "class": "icon_in_selection",
         "layer0.texture": "Predawn/assets/icon-selection-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_in_selection",
@@ -979,7 +979,7 @@
         "class": "icon_preserve_case",
         "layer0.texture": "Predawn/assets/icon-preserve-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_preserve_case",
@@ -1002,7 +1002,7 @@
         "class": "icon_highlight",
         "layer0.texture": "Predawn/assets/icon-highlight-off.png",
         "layer0.opacity": 1.0,
-        "content_margin": [4, 4]
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_highlight",
