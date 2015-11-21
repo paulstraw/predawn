@@ -1,24 +1,12 @@
+===================================
+2.0.0 - IMPORTANT: Breaking Changes
+===================================
 
+All options now start with "predawn_"
+Be sure to update your Preferences.sublime-settings file
+with your desired settings (there are some new ones, too!)
 
-:::::::   :::::::   :::::::  :::::::    ::::::   :::  :::  :::  :::::   :::
-:::  :::  :::  :::  :::      :::  :::  :::  :::  :::  :::  :::  ::::::: :::
-:::::::   ::::::::  ::::::   :::  :::  ::::::::  :::  :::  :::  ::: :::::::
-:::       ::: :::   :::      :::  :::  :::  :::  ::: :::: ::::  :::   :::::
-:::       :::  :::  :::::::  :::::::   :::  :::  ::::::::::::   :::    ::::
-
-
-==========
-ACTIVATION
-==========
-
-  "theme": "predawn.sublime-theme",
-  "color_scheme": "Packages/Predawn/predawn.tmTheme",
-
-==============================
-IMPORTANT - Sublime Text 3062+
-==============================
-
-  "theme": "predawn-DEV.sublime-theme",
+See below for all options with defaults:
 
 ============
 Tabs Options
@@ -48,6 +36,12 @@ Panel Options
   "predawn_findreplace_small": false,
   "predawn_quick_panel_small": false,
 
+==============================
+IMPORTANT - Sublime Text 3062+
+==============================
+
+  "theme": "predawn-DEV.sublime-theme",
+
 
 ===============================================================
 I've put a lot of time and effort into making Predawn awesome.
@@ -63,7 +57,7 @@ If you love it, please consider helping me make it even better!
  / _ \    | (__  | (_) | | _|  | _|  | _|  | _|    /_/
 /_/ \_\    \___|  \___/  |_|   |_|   |___| |___|  (_)
 
-https://plasso.co/s/ZezNW6UhHv/
+https://plasso.co/jamie@jamiewilson.io
 
   ___   ___
  / _ \ | _ \
